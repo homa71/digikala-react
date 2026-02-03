@@ -1,0 +1,31 @@
+{
+    "name":"PWA digikala",
+    "short_name":"PWA digikala",
+    "start_url":"./",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"image/pwa/app-logo.png",
+            "sizes":"256x256"
+        }
+    ],
+    "description":"PWA digikala",
+    "id":"./",
+    "background_color":"#dc143c",
+    "theme_color":"#dc143c",
+    "screenshots":[
+        {
+            "src":"image/pwa/icon-pwa.webp",
+            "type":"image/png",
+            "sizes":"360x360",
+            "form_factor":"wide"
+
+        },
+        {
+             "src":"image/pwa/icon-pwa.webp",
+            "type":"image/png",
+            "sizes":"360x360"
+
+        }
+    ]
+}
